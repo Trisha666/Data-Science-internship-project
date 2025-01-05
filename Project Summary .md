@@ -1,4 +1,5 @@
-Project Title: Email Marketing Trends in India
+Project Title: Trends of Email Marketing in India
+
 
 Objective:
 This project aimed to master data analytics and Power BI, with a focus on developing robust analytical capabilities and creating insightful visualizations.
